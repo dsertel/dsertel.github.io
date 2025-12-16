@@ -1,13 +1,13 @@
 /* DC Bau Berlin - Modern Construction Website Styles */
 
 :root {
-    --primary-color: #6d4c41;
-    --secondary-color: #8d6e63;
-    --accent-color: #d7ccc8;
+    --primary-color: #4a90e2;
+    --secondary-color: #6ba3d1;
+    --accent-color: #b3d9f2;
     --text-color: #333;
-    --bg-color: #f9f5f0;
+    --bg-color: #e8f4f8;
     --white: #ffffff;
-    --dark: #3e2723;
+    --dark: #2c5aa0;
 }
 
 * {
